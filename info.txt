@@ -1,0 +1,13 @@
+mongo db 
+email : sssahane23@gmail.com
+pass : Sandesh23
+
+
+cluster
+username : sandeshss
+password: sandeshss
+
+
+link
+
+mongodb+srv://sandeshss:sandeshss@mern-estate.7g3wo.mongodb.net/?retryWrites=true&w=majority&appName=mern-estate
